@@ -1,11 +1,39 @@
-## Hi there 👋
+<h2 align="left">E aí, você :)</h2>
 
-### Oi! Sou o Luiz Ricardo.
+###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-gomes-e-silva-343b52191/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizeraricardo/)
+<div align="left">
+</div>
 
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizeraRicardo&show_icons=true&theme=highcontrast)
+<div align="left">
+  <a href="https://www.linkedin.com/in/luiz-ricardo-gomes-e-silva-343b52191/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://outlook.live.com/mail/0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-![Snake animation](http://github.com/LuizeraRicardo/LuizeraRicardo/outup/github-contribution-grid-snake-svg)
+###
+
+<h3 align="left">Olá, meu nome é **Luiz Ricardo**, sou estudante de Economia na UFC e sou Analista de Apuração de Resultados na empresa FRIBAL. <br><br>Estou começando os estudos de SQL e BANCO DE DADOS com a intensão de transformar dados brutos em informação para auxiliar nas tomadas de decisões.</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizeraRicardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizeraRicardo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LuizeraRicardo/LuizeraRicardo/output/snake.svg" alt="Snake animation" />
+
+###
