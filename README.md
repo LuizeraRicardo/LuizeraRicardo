@@ -1,8 +1,14 @@
-<h2 align="left">E aí, você :)</h2>
+<h1 align="left">Oi, você :)</h1>
 
 ###
 
-<div align="left">
+<h3 align="left">Olá, meu nome é Luiz Ricardo, sou estudante de Economia na UFC e sou Analista de Apuração de Resultados na empresa FRIBAL. <br><br>Estou começando os estudos de SQL e BANCO DE DADOS com a intensão de transformar dados brutos em informação para auxiliar nas tomadas de decisões.</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizeraRicardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizeraRicardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -14,20 +20,9 @@
   <a href="https://outlook.live.com/mail/0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/luizeraricardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<h3 align="left">Olá, meu nome é **Luiz Ricardo**, sou estudante de Economia na UFC e sou Analista de Apuração de Resultados na empresa FRIBAL. <br><br>Estou começando os estudos de SQL e BANCO DE DADOS com a intensão de transformar dados brutos em informação para auxiliar nas tomadas de decisões.</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizeraRicardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizeraRicardo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
